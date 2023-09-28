@@ -1,1 +1,1 @@
-# vector-new Тестировщик ПО 2022 мой третий commit rjl
+# vector-new Тестировщик ПО 2022 мой третий commit
